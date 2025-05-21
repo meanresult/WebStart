@@ -1,8 +1,7 @@
-# web start
-코드의 재앙 킹갓제네럴한지훈의 저장소
+# 😎코드의 재앙 킹갓제네럴한지훈의 저장소
 
-숙제 - 리드미 파일 작성하기 
-MD는 마크다운 
-
-나의 웹페이지를 확인하세요
+**나의 웹페이지를 확인하세요**
 https://meanresult.github.io/WebStart/
+
+마크다운 가이드라인 파일 참고용 ㅎㅎ 
+[markdown_guideline.md](https://github.com/user-attachments/files/20361690/markdown_guideline.md)
